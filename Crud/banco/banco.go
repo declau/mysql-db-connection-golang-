@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	_ "github.com/go-sql-driver/mysql" //Driver de conexão com o MySQL
+	_ "github.com/go-sql-driver/mysql" // Driver de conexão com o MySQL
 )
 
 //Conectar abre a conexão com o DB
